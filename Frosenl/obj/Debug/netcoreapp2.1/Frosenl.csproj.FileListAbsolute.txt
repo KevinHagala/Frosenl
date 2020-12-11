@@ -1,0 +1,11 @@
+C:\Users\opilane\source\repos\Frosenl\Frosenl\bin\Debug\netcoreapp2.1\Frosenl.deps.json
+C:\Users\opilane\source\repos\Frosenl\Frosenl\bin\Debug\netcoreapp2.1\Frosenl.runtimeconfig.json
+C:\Users\opilane\source\repos\Frosenl\Frosenl\bin\Debug\netcoreapp2.1\Frosenl.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Frosenl\Frosenl\bin\Debug\netcoreapp2.1\Frosenl.dll
+C:\Users\opilane\source\repos\Frosenl\Frosenl\bin\Debug\netcoreapp2.1\Frosenl.pdb
+C:\Users\opilane\source\repos\Frosenl\Frosenl\obj\Debug\netcoreapp2.1\Frosenl.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Frosenl\Frosenl\obj\Debug\netcoreapp2.1\Frosenl.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Frosenl\Frosenl\obj\Debug\netcoreapp2.1\Frosenl.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Frosenl\Frosenl\obj\Debug\netcoreapp2.1\Frosenl.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Frosenl\Frosenl\obj\Debug\netcoreapp2.1\Frosenl.dll
+C:\Users\opilane\source\repos\Frosenl\Frosenl\obj\Debug\netcoreapp2.1\Frosenl.pdb
